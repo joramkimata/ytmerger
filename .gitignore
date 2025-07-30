@@ -1,0 +1,37 @@
+# Binaries
+ytmerger
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build output
+bin/
+build/
+
+# Vendor folder (if you use vendoring)
+vendor/
+
+# Go modules cache
+go.sum
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Test cache
+testdata/
+
+# If you generate coverage reports
+*.out
+
